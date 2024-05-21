@@ -1,0 +1,20 @@
+.txt {
+    background: linear-gradient(to bottom, #007bff, #0056b3); 
+    padding: 20px; 
+    border-radius: 10px; 
+}
+
+textarea {
+    width: 100%; 
+    margin-bottom: 10px; 
+}
+
+button {
+    width: 100%; 
+    background-color: #007bff; 
+    color: #fff; 
+    border: none; 
+    padding: 10px; 
+    cursor: pointer; 
+    border-radius: 5px; 
+}
